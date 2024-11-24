@@ -1,0 +1,27 @@
+# NAME: AliPay
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:16:38
+# HOST-SUFFIX: 21
+# TOTAL: 21
+HOST-SUFFIX,alipay,direct
+HOST-SUFFIX,alipay-corp.com,direct
+HOST-SUFFIX,alipay-eco.com,direct
+HOST-SUFFIX,alipay-inc.com,direct
+HOST-SUFFIX,alipay-traffic.com,direct
+HOST-SUFFIX,alipay.cn,direct
+HOST-SUFFIX,alipay.com,direct
+HOST-SUFFIX,alipay.com.cn,direct
+HOST-SUFFIX,alipay.hk,direct
+HOST-SUFFIX,alipay.net,direct
+HOST-SUFFIX,alipaydesign.com,direct
+HOST-SUFFIX,alipaydev.com,direct
+HOST-SUFFIX,alipaydns.com,direct
+HOST-SUFFIX,alipayeshop.com,direct
+HOST-SUFFIX,alipaylog.com,direct
+HOST-SUFFIX,alipaymo.com,direct
+HOST-SUFFIX,alipayobjects.com,direct
+HOST-SUFFIX,alipayplus.com,direct
+HOST-SUFFIX,ifaa.org.cn,direct
+HOST-SUFFIX,luohanacademy.com,direct
+HOST-SUFFIX,sinopayment.com.cn,direct
